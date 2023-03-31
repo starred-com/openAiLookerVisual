@@ -7,7 +7,7 @@ const body = JSON.stringify({
     max_tokens: 100, 
     model: 'text-davinci-003', 
 });
-const apiKey = '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'
+const apiKey = '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'
 var font = `"Google Sans", "Noto Sans", "Noto Sans JP", "Noto Sans CJK KR", "Noto Sans Arabic UI", "Noto Sans Devanagari UI", "Noto Sans Hebrew", "Noto Sans Thai UI", Helvetica, Arial, sans-serif`
         
 
