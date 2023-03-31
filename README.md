@@ -1,1 +1,1 @@
-# openAiLookerVisual
+# oopenAiLookerVisual
