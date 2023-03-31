@@ -1,1 +1,1 @@
-# oopenAiLookerVisual
+# openAi Looker Visualization
