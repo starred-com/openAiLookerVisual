@@ -8,7 +8,7 @@ const visObject = {
     var commentGroupValue = data[0][commentGroupField].value
     var title = "NPS Score";
     var font = `"Google Sans", "Noto Sans", "Noto Sans JP", "Noto Sans CJK KR", "Noto Sans Arabic UI", "Noto Sans Devanagari UI", "Noto Sans Hebrew", "Noto Sans Thai UI", Helvetica, Arial, sans-serif`;
-    const apiKey = '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'            
+    const apiKey = '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'            
     const body = JSON.stringify({ 
       prompt: "What is the tempreture today and tomorrow", 
       max_tokens: 100, 
